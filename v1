@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+    <meta charset="UTF-8">
+        <title> Лабараторная работа #1</title> 
+    </head> 
+    <body style="background-color: #fadadd;">
+        <h1><em>О себе</em></h1>
+        <p><i>Город проживания: </i>Самара</p>
+        <p><i>Место обучения: </i>СГЭУ</p>
+        <p><i>Хобби: <i>теннис</p>
+        <p><i>Возраст: </i>18</p>
+
+        <h2><em>Какие фильмы мне нравятся</em></h2>
+        <ul>
+            <li>Одиссея</li>
+            <li>Интерстеллар</li>
+        </ul> 
+        
+        <h2><em>Какая музыка мне нравится</em></h2>
+        <ol>
+            <li>Любовь HD1080</li>
+            <li>Best times</li>
+        </ol>
+
+        <h2><b>Как со мной связаться</b></h2>
+        <a href="https://t.me/jiharochkaa">Telegram</a>
+
+        <h3><b>Фото котика</b></h3>
+        <img
+            src="kotik.jpg"
+            alt="котик"
+            width="200"
+            height="200"
+            />
+    </body>
+</htm1>
